@@ -195,32 +195,39 @@ p {
     }
 
     .testimonial-text {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     .pricing-heading {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
+    
     .pricing-row {
         margin-top: 50px;
     }
-
+    
     .end-phrase {
         font-size: 2rem;
     }
-
+    
     .title-container {
         padding: 3% 0 7%;
     }
-
+    
     h2 {
         font-size: 1.5rem;
     }
-
+    
     .iphone6 {
         transform: none;
         position: static;
         width: 60%;
+    }
+    .card-header h3 {
+        font-size: 1.5rem;
+    }
+    .pricing-text {
+        font-size: 2rem;
     }
 }
