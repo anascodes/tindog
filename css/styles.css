@@ -199,7 +199,7 @@ p {
     }
 
     .pricing-heading {
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     
@@ -229,5 +229,11 @@ p {
     }
     .pricing-text {
         font-size: 2rem;
+    }
+    .pricing-grey {
+        font-size: .75rem;
+    }
+    .press-logo{
+        width: 10%;
     }
 }
